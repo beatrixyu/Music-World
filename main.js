@@ -75,7 +75,7 @@ document.addEventListener("scroll", function() {
     document.documentElement.scrollTop > 600
   ) {
     text.classList.remove("show");
-    text.style.transition = "1s";
+    text.style.transition = "3s";
   } else {
     text.classList.add("show");
     text.style.transition = "3s";

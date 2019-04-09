@@ -77,12 +77,12 @@ body {
 }
 
 #service figure {
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
 }
 #service img {
-  height: 120px;
-  width: 200px;
+  height: 150px;
+  width: 250px;
   margin: 0;
   padding: 0;
 }
@@ -108,7 +108,7 @@ body {
   font-size: 15px;
 }
 #about img {
-  width: 300px;
+  width: 400px;
   height: auto;
 }
 
