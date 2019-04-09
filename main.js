@@ -78,7 +78,7 @@ document.addEventListener("scroll", function() {
     text.style.transition = "1s";
   } else {
     text.classList.add("show");
-    text.style.transition = "1s";
+    text.style.transition = "3s";
   }
   // text.classList.remove("hidden");
   console.log(document.documentElement.scrollTop);
